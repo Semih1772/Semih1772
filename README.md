@@ -1,14 +1,19 @@
 # Hi there, I'm Semih Paylan 👋
 
-🎓 **Computer Engineering Student** @ Marmara University  
-🚀 Interested in **Systems Programming**, **C** & **Algorithms**  
-🛠️ Currently building projects & learning new technologies  
+I'm a **Computer Engineering student at Marmara University** passionate about low-level software development, C programming, and understanding how computing systems work under the hood.
 
 ---
 
-### 🛠️ Languages & Tools
-- **Languages:** C, C++
-- **Tools & Platforms:** Git, GitHub, VS Code
+### 🛠️ Languages & Technologies
+- **Core Languages:** C, C++
+- **Tools & Environments:** Git, GitHub, VS Code, Linux/Windows
+
+---
+
+### 📌 Current Focus
+- 🎯 Deepening knowledge in C programming & Data Structures
+- 🚀 Developing logic-based projects and algorithms
+- 📖 Exploring Systems Programming concepts
 
 ---
 
